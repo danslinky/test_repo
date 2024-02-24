@@ -1,6 +1,6 @@
-# Test Repository
+# README
 
-This is a test repository created with Terraform
+This is an updated README file
 
 ## Usage
 
